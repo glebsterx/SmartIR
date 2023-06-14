@@ -310,11 +310,6 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 [1460](../codes/media_player/1460.json)| R1280DB |Broadlink
 [1461](../codes/media_player/1461.json)| R2000DB |Broadlink
 
-#### Dialog
-| Code | Supported Models | Controller |
-| ------------- | -------------------------- | ------------- |
-[1480](../codes/media_player/1480.json)| J-103BF |Broadlink
-
 #### ZTE
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
